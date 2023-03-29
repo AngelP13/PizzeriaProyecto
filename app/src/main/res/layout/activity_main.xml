@@ -20,7 +20,7 @@
         android:layout_width="329dp"
         android:layout_height="54dp"
         android:ems="10"
-        android:hint="Nombre de usuario"
+        android:hint="Nombre del usuario"
         android:inputType="textPersonName"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
